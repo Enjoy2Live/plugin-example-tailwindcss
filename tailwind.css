@@ -561,7 +561,7 @@ video {
   --tracking-wide: 0.025;
   --tracking-widest: 0.1;
   --tracking-wider: 0.05;
-  --background-default: #f9f8f7;
+  --background-default: #f9f8f8;
   --background-hovered: #f5f3f1;
   --background-pressed: #eceae7;
   --background-selected: #dddbd8;
@@ -771,7 +771,7 @@ body {
   display: flex;
   height: 100%;
   width: 100%;
-  background-color: var(--background-default, #f9f8f7);
+  background-color: var(--background-default, #f9f8f8);
   color: var(--text-default, #38332d);
 }
 
@@ -830,7 +830,7 @@ body {
 }
 
 .text-Background-Default {
-  color: var(--background-default, #f9f8f7);
+  color: var(--background-default, #f9f8f8);
 }
 
 .shadow-border-active-2 {

@@ -151,7 +151,7 @@
   },
   "Background": {
     "Default": {
-      "value": "#f9f8f7",
+      "value": "#f9f8f8",
       "type": "color"
     },
     "Hovered": {
