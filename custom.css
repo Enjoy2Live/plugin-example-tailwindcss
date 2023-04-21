@@ -1,4 +1,9 @@
 html,
 body {
-  @apply flex bg-theme-bg-default h-full w-full text-theme-fg-default;
+  @apply flex bg-Background-Default h-full w-full text-Text-Default;
+}
+
+
+.body-xs {
+  @apply font-sans font-medium text-xs leading-4 tracking-normal no-underline
 }
